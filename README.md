@@ -1,24 +1,31 @@
 <h1 align="center">
-# Welcome to my profile
+Welcome to my profile
 </h1>
 
-### Hi, I'm **Neil Michael**, a student passionate about development and entrepreneurship in Mozambique!
+### Hi, I'm **Neil Michael**, a very curious student. Ready to learn about everything that comes your way!
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif4.gif" width="50%"/>
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 ##
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+- 🤔 &nbsp; learning to program as simply as possible to be able to better
 - 🎓 &nbsp; Studying Computer Science at
   <a target_blank href="https://www.itc.ac.mz">Institute of Transport and Communications (ITC)</a>
-- 🌱 &nbsp; Learning more about Cyber Security, UI Design and Web/Mobile software 
-- ✍️ &nbsp; Pursuing Graphic Design, Motion Design and Blog Writing as hobbies/side hustles.
-
-#### <h3> 🛠 &nbsp;: My Programming languages and tools</h3>
+- 🌱 &nbsp; Learning all about Programming, Cyber Security to be a future-ready fullstack 
+- ✍️ &nbsp; I'm also a
+   photographer
+   videomaker
+   motion designer
+   electrician
+   graphic designer
 
 ##
+
+### <h3> My Programming languages and tools 🛠 &nbsp;</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
@@ -44,18 +51,18 @@
 ##
 
  <div align="center">
+  
   <a href="https://github.com/srneil">
   <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=srneil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" align="righ" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srneil&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-##
  
 <div align="center">
   
  ![Snake animation](https://github.com/srneil/srneil/blob/output/github-contribution-grid-snake.svg)
  
- <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+ ### <h3> 🤝🏻 &nbsp;Connect with Me </h3>
   <a href="https://www.youtube.com/channel/UCAKPQ2-PTCibgNoGUo9wvJQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/itsneilmichael/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@NeilMichael_844298407#6157" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
