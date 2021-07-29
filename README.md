@@ -2,7 +2,7 @@
 Welcome to my profile
 </h1>
 
-### Hi, I'm **Neil Michael**, a very curious student. Ready to learn about everything that comes your way!
+### Hi, I'm **Neil Michael**, a very curious student. Ready to learn about everything that comes my way!
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif4.gif" width="50%"/>
 
