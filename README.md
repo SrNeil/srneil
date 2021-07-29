@@ -8,6 +8,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+##
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at
   <a target_blank href="https://www.itc.ac.mz">Institute of Transport and Communications (ITC)</a>
@@ -15,6 +17,8 @@
 - ✍️ &nbsp; Pursuing Graphic Design, Motion Design and Blog Writing as hobbies/side hustles.
 
 #### <h3> 🛠 &nbsp;: My Programming languages and tools</h3>
+
+##
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
@@ -37,18 +41,18 @@
   ![AfterEffects](https://img.shields.io/badge/-After_Efects-333333?style=flat&logo=adobe-after-effects)
   ![Premiere](https://img.shields.io/badge/-Premiere_Pro-333333?style=flat&logo=adobe-Premiere-Pro)
 
+##
 
- <div>
+ <div align="center">
   <a href="https://github.com/srneil">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=srneil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srneil&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=srneil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" align="righ" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srneil&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 ##
  
-
- 
 <div align="center">
+  
  ![Snake animation](https://github.com/srneil/srneil/blob/output/github-contribution-grid-snake.svg)
  
  <h3> 🤝🏻 &nbsp;Connect with Me </h3>
