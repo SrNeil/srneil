@@ -1,13 +1,15 @@
+<h1 align="center">
 # Welcome to my profile
-***
+</h1>
+
 ### Hi, I'm **Neil Michael**, a student passionate about development and entrepreneurship in Mozambique!
 ## About me 👱‍♂️
 
 
  <div>
   <a href="https://github.com/srneil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srneil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srneil&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=srneil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srneil&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
