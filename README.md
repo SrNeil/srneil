@@ -1,29 +1,13 @@
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/87953252/127613888-20ca5569-62d4-41ea-9a98-cc1a43ad7a82.png" width="50%"/>
+<a href="https://github.com/SrNeil/">
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/87953252/127623856-afb73627-3914-4772-a0da-e343003975ad.png" width="100%"/>
+</a>
 
-### <h1 align="center">Neil Michael</h1>
-### Solftware engineer
+I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. A very curious student, ready to learn about everything that comes my way! learning to program as simply as possible to be able to better. Studying Computer Science at <a target_blank href="https://www.itc.ac.mz">Institute of Transport and Communications (ITC)</a>.  Learning all about Programming, Cyber Security to be a future-ready fullstack. I'm also a photographer videomaker motion designer electrician graphic designer.
 
-
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-##
-
-
-- 🤔 &nbsp; learning to program as simply as possible to be able to better
-- 🎓 &nbsp; Studying Computer Science at
-  <a target_blank href="https://www.itc.ac.mz">Institute of Transport and Communications (ITC)</a>
-- 🌱 &nbsp; Learning all about Programming, Cyber Security to be a future-ready fullstack 
-- ✍️ &nbsp; I'm also a
-   photographer
-   videomaker
-   motion designer
-   electrician
-   graphic designer
-
-##
+<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/87953252/127625987-dcdae70d-8ac9-4863-b92c-71d35f0b4a04.gif" width="50%"/>
 
 ### <h3> My Programming languages and tools 🛠 &nbsp;</h3>
+
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
@@ -60,7 +44,7 @@
   
  ![Snake animation](https://github.com/srneil/srneil/blob/output/github-contribution-grid-snake.svg)
  
- ### <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+## Find me around the web 🌎:
   <a href="https://www.youtube.com/channel/UCAKPQ2-PTCibgNoGUo9wvJQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/itsneilmichael/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@NeilMichael_844298407#6157" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
