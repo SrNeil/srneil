@@ -1,10 +1,8 @@
-<h1 align="center">
-Welcome to my profile
-</h1>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/87953252/127613888-20ca5569-62d4-41ea-9a98-cc1a43ad7a82.png" width="50%"/>
 
-### Hi, I'm **Neil Michael**, a very curious student. Ready to learn about everything that comes my way!
+### <h1 align="center">Neil Michael</h1>
+### Solftware engineer
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif4.gif" width="50%"/>
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
