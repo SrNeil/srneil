@@ -4,7 +4,7 @@
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. A very curious student, ready to learn about everything that comes my way! learning to program as simply as possible to be able to better. Studying Computer Science at <a target_blank href="https://www.itc.ac.mz">Institute of Transport and Communications (ITC)</a>.  Learning all about Programming, Cyber Security to be a future-ready fullstack. I'm also a photographer videomaker motion designer electrician graphic designer.
 
-<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/87953252/127625987-dcdae70d-8ac9-4863-b92c-71d35f0b4a04.gif" width="40%"/>
+<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/87953252/127625987-dcdae70d-8ac9-4863-b92c-71d35f0b4a04.gif" width="35%"/>
 
 ### <h3> My Programming languages and tools 🛠 &nbsp;</h3>
 
