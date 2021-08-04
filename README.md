@@ -50,3 +50,12 @@ I'm a software engineer who is passionate about making open-source more accessib
  <a href="https://discord.com/channels/@NeilMichael_844298407#6157" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:neilnisiofrancelinomichael@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
+
+  <p align="center"> 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/srneil/count.svg" />
+ </p>
+
+</p>
