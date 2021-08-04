@@ -51,11 +51,10 @@ I'm a software engineer who is passionate about making open-source more accessib
   <a href = "mailto:neilnisiofrancelinomichael@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-  <p align="center"> 
-
- ## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
+<div align="center"> 
+  
+  ## Total Profile Views :detective: <br>
+</div>
+<p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/srneil/count.svg" />
- </p>
-
 </p>
